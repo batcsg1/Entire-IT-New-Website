@@ -19,7 +19,7 @@
         padding: 1em;
         align-items: center;
         justify-content: center;
-        gap: 5em;
+        gap: 10em;
         color:rgb(6, 4, 43);
     }
     header, ul{
