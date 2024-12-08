@@ -1,2 +1,17 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<section>
+    <h2>Test</h2>
+</section>
+<section>
+    <h2>Test</h2>
+</section>
+<section>
+    <h2>Test</h2>
+</section>
+
+<style>
+    section{
+        background-color: yellow;
+    }
+</style>
+
+
