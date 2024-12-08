@@ -34,6 +34,7 @@
         padding: 0.5em;
         background-color: white;
         border-radius: 0.4em;
+        transition: background-color 0.4s, transform 0.4s;
     }
     /*Hover effect for nav items*/
     ul li:hover{
