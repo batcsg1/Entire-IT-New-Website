@@ -3,7 +3,7 @@
 </section>
 <section id="info">
     <section>
-        <h3>IT for business doesn't need to be confusing but it does need to be safe.</h3>
+        <h2>IT for business doesn't need to be confusing but it does need to be safe.</h2>
         <p>Talk to us about how we can help you to secure your IT systems, protecting your clients information.
         Easy to manage IT solutions that you understand, no geek speak, no bull, just simple robust systems to make your business perform in
         this technically challenging world.       
@@ -39,7 +39,7 @@
         min-width: 30em;
         text-align: center;
     }
-    h3{
+    h2{
         text-transform: uppercase;
         font-size: x-large;
     }
