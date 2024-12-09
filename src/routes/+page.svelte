@@ -10,7 +10,7 @@
         Contact us to see you your IT systems can work better for you.
         </p>
     </section>
-    <iframe width="400" height="300" 
+    <iframe width="400" height="200" 
         src="https://www.youtube.com/embed/4F1ZaZ87Mnc"
         title="YouTube video player" 
         frameborder="0" 
@@ -29,16 +29,17 @@
     }
     #info{
         display: flex;
-        flex-direction: column;
         padding: 4em;
         align-items: center;
         gap: 3em;
+        background-color: white;
+        justify-content: center;
     }
     #info section{
         background-color: white;
         padding: 1em;
         min-width: 30em;
-        text-align: center;
+        max-width: 35em;
     }
 </style>
 
