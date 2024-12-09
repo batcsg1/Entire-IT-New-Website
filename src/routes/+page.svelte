@@ -21,10 +21,11 @@
 
 <style>
     #banner{
-        background-color: yellow;
+        background-color: rgb(23, 8, 82);
         display: flex;
         justify-content: center;
         padding: 3em;
+        color: white;
     }
     #info{
         display: flex;
