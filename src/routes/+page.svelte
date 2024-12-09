@@ -39,10 +39,6 @@
         min-width: 30em;
         text-align: center;
     }
-    h2{
-        text-transform: uppercase;
-        font-size: x-large;
-    }
 </style>
 
 

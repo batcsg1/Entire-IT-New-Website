@@ -21,6 +21,7 @@
         justify-content: center;
         gap: 10em;
         color:rgb(6, 4, 43);
+        font-family: 'OPTI';
     }
     header, ul{
         display: flex;
