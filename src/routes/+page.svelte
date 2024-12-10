@@ -18,13 +18,15 @@
         allowfullscreen>
     </iframe>
 </section>
-
+<section id="services"> 
+    <h2>Our Services:</h2>
+</section>
 <style>
     #banner{
         background-color: rgb(23, 8, 82);
         display: flex;
         justify-content: center;
-        padding: 3em;
+        padding: 4em;
         color: white;
     }
     #info{
@@ -40,6 +42,12 @@
         padding: 1em;
         min-width: 30em;
         max-width: 35em;
+    }
+    #services{
+        background-color: rgb(23, 8, 82);
+        display: flex;
+        justify-content: center;
+        color: white;
     }
 </style>
 
